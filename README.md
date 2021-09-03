@@ -135,6 +135,10 @@
 		- ADT 스마트 보관함(디렉토리 위치: /Users/macmac/code/iOS/adtcaps)  
 		- WiseMonster(디렉토리 위치: /Users/macmac/code/iOS/WiseMonster)  
 # A/S 관련  
+	1. 고객이 보관함에 문제가 있어 위키박스로 연락
+	2. 전화를 받고 고객의 정보
+	
+	## A/S로 빈번히 연락오는 곳
 	-구로 예성유토피아  
 		관리소: 02-830-7847  
 	-당산 삼성쉐르빌  
