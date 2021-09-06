@@ -241,4 +241,5 @@
 	자료위치: /Users/macmac/Desktop/무인택배발송기.pdf  
 
 # 나르고 요청 사항  
-문서위치 : https://github.com/whitesky2/Wikibox-Pass/blob/main/%E1%84%82%E1%85%A1%E1%84%85%E1%85%B3%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%89%E1%85%A1%E1%84%92%E1%85%A1%E1%86%BC.docx  
+문서위치 : https://github.com/whitesky2/Wikibox-Pass/blob/main/%E1%84%82%E1%85%A1%E1%84%85%E1%85%B3%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%89%E1%85%A1%E1%84%92%E1%85%A1%E1%86%BC.docx 
+링크 들어가서 'View raw' 클릭하고 문서 다운로드 받기
