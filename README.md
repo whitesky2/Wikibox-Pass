@@ -137,6 +137,9 @@
 	* 이니시스 가맹점 정보(오투오박스)  
 	ID: o2obox0001  
 	PW: wiki0800**  
+	
+	* iOS 앱 스토어 등록방법  
+		https://sansanji.tistory.com/entry/Xcode%EC%97%90%EC%84%9C-%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%93%B1%EB%A1%9D-%EB%B0%B0%ED%8F%AC-%ED%95%98%EA%B8%B0
 
 	* 소스파일 위치
 		- 위키박스(디렉토리 위치: /Users/macmac/code/iOS/Wikibox)  
